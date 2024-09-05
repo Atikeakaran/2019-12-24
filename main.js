@@ -28,7 +28,7 @@
 // örk:    var isim =() => kod bloğu;
 
 // -
-/*
+
 
 var merhaba = function () {
     console.log('Merhaba dünya');
@@ -89,8 +89,6 @@ var enUzunKelime = str => {
 }
 console.log(enUzunKelime('Web Development Dersi bugün saat kaçta olacak'));
 
-*/
-
 /*
 ARRAY ITERATION METHODS
 1 array.foreach (function)
@@ -102,7 +100,7 @@ ARRAY ITERATION METHODS
 7 array.reduce(function)
 8 array.findindex(function)
 
-
+*/
 //------------------------------------------------------
 //------------------------------------------------------
 //FOREACH() METHODS
@@ -223,7 +221,7 @@ console.log(filterKlasikFuncIhtiyac);
 var filterArrowFuncIhtiyac = liste.filter(item => item[1] > 500);
 console.log(filterArrowFuncIhtiyac);
 
-*/
+
 //------------------------------------------------------
 //------------------------------------------------------
 //FIND METODU
